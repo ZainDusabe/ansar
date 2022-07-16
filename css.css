@@ -1,5 +1,7 @@
 /*----------------------- Start of CSS codes for login form--------------- */
-
+body{
+  background-color: #BDE7E0;
+}
   /* Full-width input fields */
   input[type=text], input[type=password] {
     width: 100%;
