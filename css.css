@@ -76,7 +76,8 @@ html{
     background-color: #BDE7E0;
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
+    width: 50%; /* Could be more or less, depending on screen size */
+    
   }
   
   /* The Close Button (x) */
@@ -203,8 +204,7 @@ input[type=text], input[type=password] {
     background-image: linear-gradient(to right,#BBDEFB,#ffffff);
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
-    width: 60%; /* Could be more or less, depending on screen size */
-    overflow: hidden;
+    width: 50%; /* Could be more or less, depending on screen size */
     margin-top: -0.5rem;
   }
   
