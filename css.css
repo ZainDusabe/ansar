@@ -78,7 +78,7 @@ html{
     border: 1px solid #888;
     width: 50%; /* Could be more or less, depending on screen size */
     overflow:hidden;
-    margin-top: 2rem;
+    margin-top: 5rem;
     
   }
   
@@ -207,7 +207,7 @@ input[type=text], input[type=password] {
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
     width: 50%; /* Could be more or less, depending on screen size */
-    margin-top: 2rem;
+    margin-top: 5rem;
     overflow:hidden;
   }
   
