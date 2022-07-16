@@ -1,5 +1,7 @@
 /*----------------------- Start of CSS codes for login form--------------- */
-
+body{
+  background-color: #BDE7E0;
+}
 html{
   scroll-behavior: smooth;
 }
@@ -70,7 +72,7 @@ html{
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
     padding-top: 60px;
   }
-  
+ 
   /* Modal Content/Box */
   .modal-content {
     background-color: #BDE7E0;
