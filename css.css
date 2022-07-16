@@ -2,6 +2,9 @@
 body{
   background-color: #BDE7E0;
 }
+html{
+  scroll-behavior: smooth;
+}
   /* Full-width input fields */
   input[type=text], input[type=password] {
     width: 100%;
@@ -11,9 +14,6 @@ body{
     border: 1px solid #ccc;
     box-sizing: border-box;
   }
-html{
-    scroll-behavior:smooth;
-}
   
   /* Set a style for all buttons */
   button {
@@ -75,7 +75,7 @@ html{
   
   /* Modal Content/Box */
   .modal-content {
-    background-color: #fefefe;
+    background-color: #BDE7E0;
     margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
     border: 1px solid #888;
     width: 80%; /* Could be more or less, depending on screen size */
@@ -331,7 +331,7 @@ input[type=text], input[type=password] {
   /* Container for image text */
   .caption-container {
     text-align: center;
-    background-color: #ddd);
+    background-color: #ddd;
     padding: 2px 16px;
     color: #000000;
   }
